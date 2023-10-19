@@ -1,0 +1,15 @@
+.start{
+    text-align: center;
+    background-color: brown;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+}
+
+.mid{
+    background-color: red;
+    padding-left: 2%;
+    padding-top: 2%;
+    color: white;
+    padding-bottom: 2%;
+}
